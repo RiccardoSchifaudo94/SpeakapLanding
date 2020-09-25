@@ -19,7 +19,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-material-components-web": "^0.1.18",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
